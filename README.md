@@ -21,4 +21,4 @@ and add your first package, we will need it to work with Python notebooks:
 uv add ipykernel
 ```
 
-You are now ready to start with the first notebook - `lab1.ipynb`.
+You are now ready to start with the first notebook - `intro.ipynb`.
